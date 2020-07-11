@@ -1,0 +1,2 @@
+## Creation Method
+- replace constructor with different descriptive named creation methods. so that we can create multiple object from one class without passing all the arguments to the constructor. we can use some of the default constructor for specific type of object.
